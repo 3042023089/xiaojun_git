@@ -18,6 +18,8 @@ public class XiaojunGitApplicationTests {
     public void contextLoadss() {
         int a =20;
         System.out.println("a = " + a);
+        int b =30;
+        System.out.println("b = " + b);
     }
 
 }
