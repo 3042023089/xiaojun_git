@@ -11,6 +11,7 @@ public class XiaojunGitApplicationTests {
 
     @Test
     public void contextLoads() {
+        int a =20;
     }
 
 }
