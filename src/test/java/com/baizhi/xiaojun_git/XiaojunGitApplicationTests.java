@@ -12,10 +12,12 @@ public class XiaojunGitApplicationTests {
     @Test
     public void contextLoads() {
         int a =20;
+        System.out.println("a = " + a);
     }
     @Test
     public void contextLoadss() {
         int a =20;
+        System.out.println("a = " + a);
     }
 
 }
