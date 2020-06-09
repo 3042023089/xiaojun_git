@@ -20,6 +20,9 @@ public class XiaojunGitApplicationTests {
         System.out.println("a = " + a);
         int b =30;
         System.out.println("b = " + b);
+        int d =30;
+        System.out.println("b = " + d);
+
     }
 
 }
